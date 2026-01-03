@@ -1,0 +1,14 @@
+---
+tags: definition, him, billing, coding, lcd, ncd, glossary/him
+alias: LCD, LCDs, Local Coverage Determinations, Local Coverage Determination, local coverage determination, local coverage determinations
+---
+# Local Coverage Determination (LCD)
+*Decision made by a [fiscal intermediary](fiscal-intermediary.md) (FI) or a [Medicare](medicare.md) carrier about the services and items that are reasonable and necessary. LCD also decides if a particular service should be covered on an intermediary-wide or a carrier-wide basis, and it makes decisions about the service that is reasonable and necessary for certain diagnoses and procedure.*
+
+The Medicare Coverage Database is a searchable database that contains all Medicare [National Coverage Determination](national-coverage-determination.md)s (NCDs), National Coverage Analyses (NCAs), Local Coverage Determinations (LCDs), local articles, and other information. NCAs include proposed [NCD](national-coverage-determination.md) decisions. The NCD is intended to be used by Medicare Contractors, providers, and other healthcare professionals.
+
+[NCDs](national-coverage-determination.md)’ statutory and policy framework are based on § 1862 of Title XVIII of the Social Security Act and [Medicare](medicare.md) regulations and rulings. The [NCD](national-coverage-determination.md) Manual indicates whether specific medical services, items, treatment procedures, or technologies can be paid for by [Medicare](medicare.md). All decisions of denial of coverage are based on §1862(a)(1) of the Act unless otherwise specifically noted. 
+
+Medicare contractors are required to follow [NCDs](national-coverage-determination.md) unless an [NCD](national-coverage-determination.md) does not specifically exclude or limit an indication or circumstance, or if the item or service is not mentioned at all in either the [NCD](national-coverage-determination.md) or a Medicare manual. In such circumstances, the Medicare contractor can make an LCD. [NCDs](national-coverage-determination.md) and LCDs are updated as they are published. 
+
+An LCD is mandated at the [Medicare Administrative Contractor (MAC)](medicare-administrative-contractor-mac.md) (MAC) level. The guidelines given are only applicable to that specific [MAC](medicare-administrative-contractor-mac.md)’s jurisdiction. [Medicare](medicare.md) contractors develop the LCDs when there is no [NCD](national-coverage-determination.md) or when there is a need to further define an [NCD](national-coverage-determination.md). Chapter 13 of the [Medicare](medicare.md) Program Integrity Manual contains the guidelines for LCD development. When there is an [NCD](national-coverage-determination.md) and an LCD for the same procedure, the [NCD](national-coverage-determination.md) takes precedence.
